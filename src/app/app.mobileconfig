@@ -23,7 +23,7 @@
                    <key>Precomposed</key>
                    <true/>
                    <key>URL</key>
-                   <string>https://www.github.com/LegoCraftPE/iOS_LCPE-App/src/web/html/index.php</string>
+                   <string>https://github.com/LegoCraftPE/iOS_LCPE-App/blob/master/src/web/html/index.php</string>
             </dict>
     </array>
     <key>PayloadDescription</key>

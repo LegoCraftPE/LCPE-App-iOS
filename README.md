@@ -10,3 +10,6 @@ Go to our download page(coming soon) in Safari.
 You'll be taken into the Settings app and be prompted to install our app profile, just click Install.
 #3.
 BOOM! Go to your home screen and you have our app! :D
+
+
+#STILL W.I.P

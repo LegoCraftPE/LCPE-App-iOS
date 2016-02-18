@@ -5,7 +5,7 @@ LCPE app for iOS!
 How to install:
 
 #1.
-Go to our download page(coming soon) in Safari.
+Go to our download page (http://www.ultiweb.ml/lcpe_app/iOS/app.mobileconfig)[here] in Safari. **Please ensure you view this page on an iOS device!**
 #2.
 You'll be taken into the Settings app and be prompted to install our app profile, just click Install.
 #3.

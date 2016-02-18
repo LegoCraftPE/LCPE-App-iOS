@@ -13,7 +13,7 @@
                    <key>PayloadDisplayName</key>
                    <string>Web Clip</string>
                    <key>PayloadIdentifier</key>
-                   <string>LCPE.com.apple.webClip.managed</string>
+                   <string>lcpe.com.apple.webClip.managed</string>
                    <key>PayloadType</key>
                    <string>com.apple.webClip.managed</string>
                    <key>PayloadUUID</key>

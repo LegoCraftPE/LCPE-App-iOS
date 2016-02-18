@@ -8,4 +8,4 @@ This is an iOS app developed for LegoCraftPE!
 - BOOM! Go to your home screen and you have our app! :D
 
 # Notes
-This app is being developed by [@applqpak](Github.com/applqpak), and is still a work in progress! Thanks to [@UltimateMcraft](Github.com/UltimateMcraft) for hosting the download page :D
+This app is being developed by [@applqpak](https://www.github.com/applqpak), and is still a work in progress! Thanks to [@UltimateMcraft](https://www.github.com/UltimateMcraft) for hosting the download page :D

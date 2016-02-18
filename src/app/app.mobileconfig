@@ -1,1 +1,47 @@
 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+      <key>PayloadContent</key>
+      <array>
+             <dict>
+                   <key>FullScreen</key>
+                   <true/>
+                   <key>Label</key>
+                   <string>LegoCraftPE</string>
+                   <key>PayloadDescription</key>
+                   <string>The Official LegoCraftPE(LCPE) App For iOS! Our Official Website: www.legocraft.me</string>
+                   <key>PayloadDisplayName</key>
+                   <string>Web Clip</string>
+                   <key>PayloadIdentifier</key>
+                   <string>LCPE.com.apple.webClip.managed</string>
+                   <key>PayloadType</key>
+                   <string>com.apple.webClip.managed</string>
+                   <key>PayloadUUID</key>
+                   <string>9737453a-d617-11e5-ab30-625662870761</string>
+                   <key>PayloadVersion</key>
+                   <real>1</real>
+                   <key>Precomposed</key>
+                   <true/>
+                   <key>URL</key>
+                   <string>http://www.ultiweb.ml/app.mobileconfig</string>
+            </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>The Official LegoCraftPE(LCPE) App For iOS! Our Official Website: www.legocraft.me</string>
+    <key>PayloadDisplayName</key>
+    <string>LegoCraftPE</string>
+    <key>PayloadIdentifier</key>
+    <string>com.lcpe.app</string>
+    <key>PayloadOrganization</key>
+    <string>LegoCraftPE, Inc.</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>9737453a-d617-11e5-ab30-625662870761</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
